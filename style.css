@@ -9,6 +9,8 @@ html {
 
 h1 {
   text-align: center;
+  font-size: 4rem;
+  margin: 1rem 0;
 }
 
 .live-cams {
@@ -30,8 +32,10 @@ h1 {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin: 4rem 0;
 }
 
 .links a {
-  font-size: 1.5rem;
+  font-size: 2.5rem;
+  margin: 1rem 0;
 }
